@@ -1,0 +1,11 @@
+D:\Studies\5th Semester\Internet Technologies\assignment1\newproj\task02\university\bin\Debug\netcoreapp2.1\university.deps.json
+D:\Studies\5th Semester\Internet Technologies\assignment1\newproj\task02\university\bin\Debug\netcoreapp2.1\university.runtimeconfig.json
+D:\Studies\5th Semester\Internet Technologies\assignment1\newproj\task02\university\bin\Debug\netcoreapp2.1\university.runtimeconfig.dev.json
+D:\Studies\5th Semester\Internet Technologies\assignment1\newproj\task02\university\bin\Debug\netcoreapp2.1\university.dll
+D:\Studies\5th Semester\Internet Technologies\assignment1\newproj\task02\university\bin\Debug\netcoreapp2.1\university.pdb
+D:\Studies\5th Semester\Internet Technologies\assignment1\newproj\task02\university\obj\Debug\netcoreapp2.1\university.csprojAssemblyReference.cache
+D:\Studies\5th Semester\Internet Technologies\assignment1\newproj\task02\university\obj\Debug\netcoreapp2.1\university.csproj.CoreCompileInputs.cache
+D:\Studies\5th Semester\Internet Technologies\assignment1\newproj\task02\university\obj\Debug\netcoreapp2.1\university.AssemblyInfoInputs.cache
+D:\Studies\5th Semester\Internet Technologies\assignment1\newproj\task02\university\obj\Debug\netcoreapp2.1\university.AssemblyInfo.cs
+D:\Studies\5th Semester\Internet Technologies\assignment1\newproj\task02\university\obj\Debug\netcoreapp2.1\university.dll
+D:\Studies\5th Semester\Internet Technologies\assignment1\newproj\task02\university\obj\Debug\netcoreapp2.1\university.pdb
